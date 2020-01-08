@@ -1,4 +1,4 @@
-import { defined, defineProperties, DeveloperError } from 'cesium'
+import { defined, defineProperties, DeveloperError } from 'cesium/Cesium'
 import CesiumNavigation from './CesiumNavigation'
 import './styles/cesium-navigation.css'
 

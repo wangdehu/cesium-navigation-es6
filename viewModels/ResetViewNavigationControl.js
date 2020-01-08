@@ -1,5 +1,5 @@
 
-import { defined, Camera, Rectangle, Cartographic } from 'cesium'
+import { defined, Camera, Rectangle, Cartographic } from 'cesium/Cesium'
 import svgReset from '../svgPaths/svgReset'
 import NavigationControl from './NavigationControl'
 

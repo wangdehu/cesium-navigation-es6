@@ -1,6 +1,6 @@
 {
-  "name": "cesium-navigation-es6",
-  "version": "1.1.3",
+  "name": "cesium-navigation-es6-wdh",
+  "version": "1.1.4",
   "description": "cesium-navigation-es6",
   "main": "viewerCesiumNavigationMixin.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richard1015/cesium-navigation-es6.git"
+    "url": "git+https://github.com/wangdehu/cesium-navigation-es6.git"
   },
   "dependencies": {
     "cesium": "^1.64.0",
@@ -19,10 +19,10 @@
   "keywords": [
     "cesium-navigation"
   ],
-  "author": "richard",
-  "license": "ISC",
+  "author": "wangdehu",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/richard1015/cesium-navigation-es6/issues"
+    "url": "https://github.com/wangdehu/cesium-navigation-es6/issues"
   },
-  "homepage": "https://github.com/richard1015/cesium-navigation-es6#readme"
+  "homepage": "https://github.com/wangdehu/cesium-navigation-es6#readme"
 }
