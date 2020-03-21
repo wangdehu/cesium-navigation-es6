@@ -4,3 +4,8 @@ distance scale graphical user interface.
 
 fork from (cesium-navigation-es6)[https://github.com/richard1015/cesium-navigation-es6]
 
+
+Only Differences:
+
+from 'cesium'   =>   from 'cesium/Cesium'
+defineProperties =>  Object.defineProperties   (Cesium 1.67)
